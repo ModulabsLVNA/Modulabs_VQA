@@ -28,7 +28,7 @@
 * Learning to Compose Neural Networks for Question Answering
   + Presenter: 정민지
   + Paper: https://arxiv.org/abs/1601.01705
-  + Material:
+  + Material: https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week03/learning_to_compose_neural_networks_for_qa.pdf
 
 * Learning to Reason: End-to-End Module Networks for Visual Question Answering
   + Presenter: 문태봉
