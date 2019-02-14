@@ -63,7 +63,7 @@
   + Reference1: http://www.modulabs.co.kr/DeepInCo/20067
   + Reference2: http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR00RzJ4AwnPjAAKveNWT91DzjksQq6D5Tlhj98HgIXxMPo2Yc5-MVqVGBw
   
-### Week05 (19/02/20)
+### Week06 (19/02/20)
 * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1606.01847
