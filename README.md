@@ -56,4 +56,4 @@
 * Attention Is All You Need
   + Presenter: 정민지
   + Paper: https://arxiv.org/abs/1706.03762
-  + Material:
+  + Material: https://github.com/modulabs/NLP-bootcamp/blob/master/1st/week07/Attention%20is%20All%20You%20Need_이승재.pdf
