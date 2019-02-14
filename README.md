@@ -73,3 +73,58 @@
   + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1511.02274
   + Material:
+  
+### Week07 (19/02/27)
+* Learning to Reason: End-to-End Module Networks for Visual Question Answering (코드구현)
+  + Presenter: 문태봉
+  + Paper: https://arxiv.org/abs/1704.05526
+  + Material:
+
+* ???
+  + Presenter:
+  + Paper:
+  + Material:
+
+### Week08 (19/03/06)
+* ???
+  + Presenter:
+  + Paper:
+  + Material:
+
+* ???
+  + Presenter:
+  + Paper:
+  + Material:
+
+### Week09 (19/03/13)
+* ???
+  + Presenter:
+  + Paper:
+  + Material:
+
+* ???
+  + Presenter:
+  + Paper:
+  + Material:
+
+### Week10 (19/03/20)
+* MovieQA: Understanding Stories in Movies through Question-Answering
+  + Presenter:
+  + Paper: https://arxiv.org/abs/1512.02902
+  + Material:
+
+* MarioQA: Answering Questions by Watching Gameplay Videos
+  + Presenter:
+  + Paper: https://arxiv.org/abs/1612.01669
+  + Material:
+
+### Week11 (19/03/27)
+* TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering
+  + Presenter:
+  + Paper: https://arxiv.org/abs/1704.04497
+  + Material:
+
+* DeepStory: Video Story QA by Deep Embedded Memory Networks
+  + Presenter:
+  + Paper: https://arxiv.org/abs/1707.00836
+  + Material:
