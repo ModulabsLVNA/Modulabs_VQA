@@ -11,7 +11,7 @@
 * VQA: Visual Question Answering
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1505.00468
-  + Material:
+  + Material: https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week01/2019.01.09_vqa.pdf
 
 ### Week02 (19/01/16)
 * Ask Your Neurons: A Neural-based Approach to Answering Questions about Images
