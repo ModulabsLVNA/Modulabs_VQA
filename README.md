@@ -1,5 +1,5 @@
 # Modulabs_VQA
-모두의 연구소 풀잎스쿨 질문을 해봐요 (2019.01.09~)
+모두의 연구소 풀잎스쿨 질문을 해봐요! (2019.01.09~)
 
 참가자: 김예찬, 문태봉, 오근수, 유준봉, 정민지, 조원호
 
@@ -22,7 +22,7 @@
 * Neural Module Networks
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1511.02799
-  + Material:
+  + Material: https://www.slideshare.net/ssuserbd7730/neural-module-network
 
 ### Week03 (19/01/23)
 * Learning to Compose Neural Networks for Question Answering
