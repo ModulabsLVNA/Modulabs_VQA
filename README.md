@@ -60,7 +60,7 @@
   + Presenter: 정민지
   + Paper: https://arxiv.org/abs/1706.03762
   + Material: [이승재님 발표자료 (풀잎스쿨 NLP bootcamp)](https://github.com/modulabs/NLP-bootcamp/blob/master/1st/week07/Attention%20is%20All%20You%20Need_이승재.pdf)
-  + Reference: [김승일님 발표자료 (딥인코)](http://www.modulabs.co.kr/DeepInCo/20067)
+  + Reference: [김승일님 발표자료 (모두연 딥인코)](http://www.modulabs.co.kr/DeepInCo/20067)
   + Reference: [Jay Alammar 블로그](http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR00RzJ4AwnPjAAKveNWT91DzjksQq6D5Tlhj98HgIXxMPo2Yc5-MVqVGBw)
   
 ### Week06 (19/02/20)
