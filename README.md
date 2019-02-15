@@ -8,9 +8,8 @@
 퍼실이: 문태봉
 
 
-## Paper List : arXiv기준
-
-### 큰 그림 그리는 기준(김예찬 기준...)
+## 1. Paper List : arXiv 날짜를 기준으로 함
+**특징**
 - A : Neural Module Networks
 - B : 각 단어가 이미지의 어떤 feature에 대응하게 Attention을 사용한 접근 방식, 단점 : 이미지 공간에서 명확한 의미론적인 내용을 담고 있지 않는 단어가 있다는 것. NLP Pipeline에서 해결해야 함
 - C : Attention을 선택적으로 사용하는 방법 
@@ -76,7 +75,7 @@
  - Latent Alignment and Variational Attention(1807)
 
 
-## Schedule
+## 2. Schedule
 ### Week01 (19/01/09)
 * Orientation
 * VQA: Visual Question Answering
