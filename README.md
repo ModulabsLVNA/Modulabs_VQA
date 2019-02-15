@@ -54,7 +54,7 @@
   + Presenter: 문태봉
   + Site: https://arxiv.org/abs/1409.0473
   + Material: https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week05/2019.02.14_vqa.pdf
-  + Reference: https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+  + Reference: [파이토치 튜토리얼](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 * Attention Is All You Need
   + Presenter: 정민지
