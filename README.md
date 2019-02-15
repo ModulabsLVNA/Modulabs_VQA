@@ -19,7 +19,7 @@
 * Ask Your Neurons: A Neural-based Approach to Answering Questions about Images
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1505.01121
-  + Material: https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week02/ask_your_neurons-slides-low_res.pdf
+  + Material: [Mateusz Malinowski 자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week02/ask_your_neurons-slides-low_res.pdf)
 
 * Neural Module Networks
   + Presenter: 김예찬
