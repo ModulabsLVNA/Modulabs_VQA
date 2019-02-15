@@ -61,7 +61,7 @@
   + Paper: https://arxiv.org/abs/1706.03762
   + Material: https://github.com/modulabs/NLP-bootcamp/blob/master/1st/week07/Attention%20is%20All%20You%20Need_이승재.pdf
   + Reference1: [딥인코 김승일님 자료 (Attention Is All You Need)](http://www.modulabs.co.kr/DeepInCo/20067)
-  + Reference2: http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR00RzJ4AwnPjAAKveNWT91DzjksQq6D5Tlhj98HgIXxMPo2Yc5-MVqVGBw
+  + Reference2: [Jay Alammar 블로그](http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR00RzJ4AwnPjAAKveNWT91DzjksQq6D5Tlhj98HgIXxMPo2Yc5-MVqVGBw)
   
 ### Week06 (19/02/20)
 * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
