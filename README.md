@@ -48,7 +48,7 @@
   + Presenter: 조원호
   + Paper: https://arxiv.org/abs/1409.0473
   + Material: [조원호님 블로그 (NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE)](https://www.notion.so/wonhocho/NEURAL-MACHINE-TRANSLATION-BY-JOINTLY-LEARNING-TO-ALIGN-AND-TRANSLATE-87eb075e954d4020a4bd2eacfa7a80cb)
-  + Reference: [조원호님 블로그](https://www.notion.so/wonhocho/Sequence-to-Sequence-Learning-with-Neural-Networks-d221d4ed2e9241e29047d95a6a9e00b2)
+  + Reference: [조원호님 블로그 (Sequence to Sequence Learning with Neural Networks)](https://www.notion.so/wonhocho/Sequence-to-Sequence-Learning-with-Neural-Networks-d221d4ed2e9241e29047d95a6a9e00b2)
 
 * TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION (파이토치 튜토리얼)
   + Presenter: 문태봉
