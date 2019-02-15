@@ -7,6 +7,75 @@
 
 퍼실이: 문태봉
 
+
+## Paper List : arXiv기준
+
+### 큰 그림 그리는 기준(김예찬 기준...)
+- A : Neural Module Networks
+- B : 각 단어가 이미지의 어떤 feature에 대응하게 Attention을 사용한 접근 방식, 단점 : 이미지 공간에서 명확한 의미론적인 내용을 담고 있지 않는 단어가 있다는 것. NLP Pipeline에서 해결해야 함
+- C : Attention을 선택적으로 사용하는 방법 
+- D : Softmax를 사용해서 attention의 가중치를 구함
+- E : bilinear
+
+
+### 2014
+ - Neural Machine Translation by Jointly Learning to Align and Translate(1409)
+
+### 2015
+ - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(1502) : B, D
+ - Ask Your Neurons: A Neural-based Approach to Answering Questions about Images(1505)
+ - VQA: Visual Question Answering(1505)
+ - Stacked Attention Networks for Image Question Answering(1511) : B, D
+ - Neural Module Networks(1511) = Deep Compositional Question Answering with Neural Module Networks(같음) : A
+ - Visual7W: Grounded Question Answering in Images(1511) : D
+ - Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering(1511) : B, D
+ - Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction(1511)
+ - ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering(1511) : B, D
+ - Compact Bilinear Pooling(1511) : D
+ - Where To Look: Focus Regions for Visual Question Answering(1511) : D
+ - Simple Baseline for Visual Question Answering(1512)
+
+### 2016
+ - Learning to Compose Neural Networks for Question Answering(1601) : A
+ - Dynamic Memory Networks for Visual and Textual Question Answering(1603)
+ - A Focused Dynamic Attention Model for Visual Question Answering(1604)
+ - Hierarchical Question-Image Co-Attention for Visual Question Answering(1606) : B, D
+ - Multimodal Residual Learning for Visual QA(1606) : E
+ - **(MCB)** Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding(1606) : D, E
+ - **(MLB)** Hadamard Product for Low-rank Bilinear Pooling(1610) : E
+ - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models(1610)
+ - Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)
+ - Dual attention networks for multimodal reasoning and matching(1611)
+ - Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)
+ - The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions(1612)
+
+### 2017
+ - An Analysis of Visual Question Answering Algorithms(1703)
+ - Learning to Reason: End-to-End Module Networks for Visual Question Answering(1704) : A, C
+ - Inferring and Executing Programs for Visual Reasoning(1705) : A
+ - **(MUTAN)** MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705) : E
+ - Attention is All You Need(1706)
+ - A simple neural network module for relational reasoning(1706)
+ - Learning Visual Reasoning Without Strong Priors(1707)
+ - Bottom-up and top-down attention for image captioning and visual question answering(1707) : B, D
+ - **(MFB)** Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708) : E
+ - Tips and Tricks for Visual Question Answering: Learning from the 2017 Challenge(1708)
+ - **(MFH)** Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering(1708) : E
+ - Robustness Analysis of Visual QA Models by Basic Questions(1709)
+ - FiLM: Visual Reasoning with a General Conditioning Layer(1709)
+ - High-Order Attention Models for Visual Question Answering(1711)
+
+
+### 2018 : 차후에 정리....
+ - Structured Triplet
+ - Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning(1803)
+ - Improved Fusion of Visual and Language Representations by Dense Symmetric Co-Attention for Visual Question Answering(1804)
+ - Bilinear Attention Networks(1805)
+ - Visual Reasoning by Progressive Module Network(1806)
+ - Learning Answer Embeddings for Visual Question Answering(1806)
+ - Latent Alignment and Variational Attention(1807)
+
+
 ## Schedule
 ### Week01 (19/01/09)
 * Orientation
