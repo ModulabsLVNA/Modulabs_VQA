@@ -54,7 +54,7 @@
  - (AAAI 2018) [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models(1610)](https://arxiv.org/abs/1610.02424)
  - **(CVPR 2017) [Dual attention networks for multimodal reasoning and matching(1611)](https://arxiv.org/abs/1611.00471)**
  - (ICLR 2017) [dynamic Coattention Networks For Question Answering(1611)](https://arxiv.org/abs/1611.01604)
- - (CVPR 2017 Spotlight) [Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)](https://arxiv.org/abs/1611.09978)
+ - (CVPR 2017 Spotlight) [Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)](https://arxiv.org/abs/1611.09978) : A
  - (CVPR 2017) [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)](https://arxiv.org/abs/1612.00837)
  - (CVPR 2017) [The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions(1612)](https://arxiv.org/abs/1612.05386)
 
@@ -65,7 +65,7 @@
  - **(ICCV 2017) [MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705)](https://arxiv.org/abs/1705.06676)** : E
    - MUTAN
  - **(NIPS 2017) [Attention is All You Need(1706)](https://arxiv.org/abs/1706.03762)**
- - (NIPS 2017) [A simple neural network module for relational reasoning(1706)](https://arxiv.org/abs/1706.01427)
+ - (NIPS 2017) [A simple neural network module for relational reasoning(1706)](https://arxiv.org/abs/1706.01427) : A
  - (CVPR 2018) [Visual Question Answering with Memory-Augmented Networks(1707)](https://arxiv.org/abs/1707.04968)
  - **(CVPR 2018 full oral) [Bottom-up and top-down attention for image captioning and visual question answering(1707)](https://arxiv.org/abs/1707.07998)** : B, D
  - **(ICCV 2016) [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708)](https://arxiv.org/abs/1708.01471)** : E
@@ -77,7 +77,7 @@
  - **(AAAI 2017) [FiLM: Visual Reasoning with a General Conditioning Layer(1709)](https://arxiv.org/abs/1709.07871)**
    - Learning Visual Reasoning Without Strong Priors(1707)
  - (CVPR 2018 Spotlight) [iVQA: Inverse Visual Question Answering(1710)](https://arxiv.org/abs/1710.03370v2)
- - (NIPS 2017) [High-Order Attention Models for Visual Question Answering(1711)](https://arxiv.org/abs/1711.04323
+ - (NIPS 2017) [High-Order Attention Models for Visual Question Answering(1711)](https://arxiv.org/abs/1711.04323)
 
 
 ### 2018 : 차후에 정리....
