@@ -24,7 +24,7 @@
  - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(1502) : B, D
  - Ask Your Neurons: A Neural-based Approach to Answering Questions about Images(1505)
  - VQA: Visual Question Answering(1505)
- - {{{#green Stacked Attention Networks for Image Question Answering(1511) : B, D}}}
+ - #green Stacked Attention Networks for Image Question Answering(1511) : B, D
  - Neural Module Networks(1511) = Deep Compositional Question Answering with Neural Module Networks(같음) : A
  - Visual7W: Grounded Question Answering in Images(1511) : D
  - Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering(1511) : B, D
