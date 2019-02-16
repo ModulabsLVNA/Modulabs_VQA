@@ -136,6 +136,11 @@
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1606.01847
   + Material:
+  
+* Hadamard Product for Low-rank Bilinear Pooling
+  + Presenter: 김예찬
+  + Paper: https://arxiv.org/abs/1610.04325
+  + Material: 
 
 * Stacked Attention Networks for Image Question Answering
   + Presenter: 오근수
@@ -148,10 +153,21 @@
   + Paper: https://arxiv.org/abs/1704.05526
   + Material:
 
-* ???
-  + Presenter:
+* MUTAN: Multimodal Tucker Fusion for Visual Question Answering
+  + Presenter: 김예찬
   + Paper:
   + Material:
+  
+* Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708)
+  + Presenter: 김예찬
+  + Paper:
+  + Material:
+  
+* Dual attention networks for multimodal reasoning and matching
+  + Presentor: ???
+  + Paper:
+  + Material:
+  
 
 ### Week08 (19/03/06)
 * ???
