@@ -52,7 +52,7 @@
  - An Analysis of Visual Question Answering Algorithms(1703)
  - **Learning to Reason: End-to-End Module Networks for Visual Question Answering(1704) : A, C**
  - **Inferring and Executing Programs for Visual Reasoning(1705) : A**
- - **(MUTAN)** MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705) : E
+ - (MUTAN) MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705) : E
  - **Attention is All You Need(1706)**
  - A simple neural network module for relational reasoning(1706)
  - Learning Visual Reasoning Without Strong Priors(1707)
