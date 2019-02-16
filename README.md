@@ -27,7 +27,7 @@
  - **Stacked Attention Networks for Image Question Answering(1511) : B, D**
  - **Neural Module Networks(1511) = Deep Compositional Question Answering with Neural Module Networks(같음) : A**
  - Visual7W: Grounded Question Answering in Images(1511) : D
- - Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering(1511) : B, D
+ - (check) Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering(1511) : B, D
  - Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction(1511)
  - ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering(1511) : B, D
  - Compact Bilinear Pooling(1511) : D
@@ -38,30 +38,31 @@
  - **Learning to Compose Neural Networks for Question Answering(1601) : A**
  - Dynamic Memory Networks for Visual and Textual Question Answering(1603)
  - A Focused Dynamic Attention Model for Visual Question Answering(1604)
- - Hierarchical Question-Image Co-Attention for Visual Question Answering(1606) : B, D
+ - (check) Hierarchical Question-Image Co-Attention for Visual Question Answering(1606) : B, D
  - Multimodal Residual Learning for Visual QA(1606) : E
  - **(MCB) Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding(1606) : D, E**
- - (MLB) Hadamard Product for Low-rank Bilinear Pooling(1610) : E
+ - **(MLB) Hadamard Product for Low-rank Bilinear Pooling(1610) : E**
  - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models(1610)
  - Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)
- - Dual attention networks for multimodal reasoning and matching(1611)
+ - **(check) Dual attention networks for multimodal reasoning and matching(1611)**
  - Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)
  - The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions(1612)
 
 ### 2017
+ - Target-driven Visual Saliency and Attention-based Question Answering(1702)
  - An Analysis of Visual Question Answering Algorithms(1703)
  - **Learning to Reason: End-to-End Module Networks for Visual Question Answering(1704) : A, C**
  - **Inferring and Executing Programs for Visual Reasoning(1705) : A**
- - (MUTAN) MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705) : E
+ - **(MUTAN) MUTAN: Multimodal Tucker Fusion for Visual Question Answering(1705) : E**
  - **Attention is All You Need(1706)**
  - A simple neural network module for relational reasoning(1706)
  - Learning Visual Reasoning Without Strong Priors(1707)
  - **Bottom-up and top-down attention for image captioning and visual question answering(1707) : B, D**
- - (MFB) Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708) : E
+ - **(MFB) Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708) : E**
  - Tips and Tricks for Visual Question Answering: Learning from the 2017 Challenge(1708)
- - (MFH) Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering(1708) : E
+ - **(MFH) Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering(1708) : E**
  - Robustness Analysis of Visual QA Models by Basic Questions(1709)
- - FiLM: Visual Reasoning with a General Conditioning Layer(1709)
+ - **FiLM: Visual Reasoning with a General Conditioning Layer(1709)**
  - High-Order Attention Models for Visual Question Answering(1711)
 
 
@@ -132,6 +133,12 @@
   + Reference: [Jay Alammar 블로그](http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR00RzJ4AwnPjAAKveNWT91DzjksQq6D5Tlhj98HgIXxMPo2Yc5-MVqVGBw)
   
 ### Week06 (19/02/20)
+* Stacked Attention Networks for Image Question Answering
+  + Presenter: 오근수
+  + Paper: https://arxiv.org/abs/1511.02274
+  + Material:
+  
+  
 * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1606.01847
@@ -142,10 +149,6 @@
   + Paper: https://arxiv.org/abs/1610.04325
   + Material: 
 
-* Stacked Attention Networks for Image Question Answering
-  + Presenter: 오근수
-  + Paper: https://arxiv.org/abs/1511.02274
-  + Material:
   
 ### Week07 (19/02/27)
 * Learning to Reason: End-to-End Module Networks for Visual Question Answering (코드구현)
@@ -158,7 +161,7 @@
   + Paper:
   + Material:
   
-* Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708)
+* Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering
   + Presenter: 김예찬
   + Paper:
   + Material:
@@ -170,19 +173,24 @@
   
 
 ### Week08 (19/03/06)
-* ???
+* Bottom-up and top-down attention for image captioning and visual question answering
   + Presenter:
   + Paper:
   + Material:
 
-* ???
-  + Presenter:
+* Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering
+  + Presenter: 김예찬
+  + Paper:
+  + Material:
+  
+* FiLM: Visual Reasoning with a General Conditioning Layer
+  + Presenter: 김예찬
   + Paper:
   + Material:
 
 ### Week09 (19/03/13)
-* ???
-  + Presenter:
+* Bilinear Attention Networks(BAN)
+  + Presenter: 김예찬
   + Paper:
   + Material:
 
