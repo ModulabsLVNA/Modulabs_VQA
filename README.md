@@ -18,11 +18,8 @@
 
 
 ### 2014
-
-```diff
- + - Neural Machine Translation by Jointly Learning to Align and Translate(1409)
+ - Neural Machine Translation by Jointly Learning to Align and Translate(1409)
 this text is highlighted in green
-```
 
 ### 2015
  - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(1502) : B, D
@@ -200,9 +197,3 @@ this text is highlighted in green
   + Presenter:
   + Paper: https://arxiv.org/abs/1707.00836
   + Material:
-
-
-
-```diff
-this text is highlighted in green
-```
