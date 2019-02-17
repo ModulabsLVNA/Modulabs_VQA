@@ -88,6 +88,7 @@
  - Visual Reasoning by Progressive Module Network(1806)
  - Learning Answer Embeddings for Visual Question Answering(1806)
  - Latent Alignment and Variational Attention(1807)
+ - Explainable Neural Computation via Stack Neural Module Networks(1807)
 
 
 ## 2. Schedule
@@ -185,7 +186,7 @@
   + Paper:
   + Material:
   
-* Dual attention networks for multimodal reasoning and matching
+* A simple neural network module for relational reasoning
   + Presentor: ???
   + Paper:
   + Material:
