@@ -193,17 +193,20 @@
   
 
 ### Week08 (19/03/06)
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  + Presenter: 조원호
+  + Paper: https://arxiv.org/abs/1810.04805
+  + Material:
+
 * Bottom-up and top-down attention for image captioning and visual question answering
   + Presenter: ???
   + Paper:
   + Material:
 
-
 * Inferring and Executing Programs for Visual Reasoning
   + Presentor: ???
   + Paper:
   + Material:
-
 
 * Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering
   + Presenter: 김예찬
