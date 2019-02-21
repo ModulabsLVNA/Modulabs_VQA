@@ -57,7 +57,7 @@
  - (CVPR 2017 Spotlight) [Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)](https://arxiv.org/abs/1611.09978) : A
  - (CVPR 2017) [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)](https://arxiv.org/abs/1612.00837)
  - (CVPR 2017) [The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions(1612)](https://arxiv.org/abs/1612.05386)
- - **(CVPR 2017) [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890)**
+ - **(CVPR 2017) [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning(1612)](https://arxiv.org/abs/1612.06890)**
 
 ### 2017
  - (ICCV 2017) [An Analysis of Visual Question Answering Algorithms(1703)](https://arxiv.org/abs/1703.09684)
