@@ -155,13 +155,15 @@
   
 ### Week06 (19/02/20)
 * Stacked Attention Networks for Image Question Answering
-* CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
   + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1511.02274
+  + Material: [오근수님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/b오그ob/master/week06/kunsu_190220.pdf)
+
+* CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
+  + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1612.06890
   + Material: [오근수님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/b오그ob/master/week06/kunsu_190220.pdf)
-  
-  
+
 * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1606.01847
