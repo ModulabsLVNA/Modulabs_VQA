@@ -57,6 +57,7 @@
  - (CVPR 2017 Spotlight) [Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)](https://arxiv.org/abs/1611.09978) : A
  - (CVPR 2017) [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)](https://arxiv.org/abs/1612.00837)
  - (CVPR 2017) [The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions(1612)](https://arxiv.org/abs/1612.05386)
+ - **[CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890)**
 
 ### 2017
  - (ICCV 2017) [An Analysis of Visual Question Answering Algorithms(1703)](https://arxiv.org/abs/1703.09684)
@@ -154,9 +155,11 @@
   
 ### Week06 (19/02/20)
 * Stacked Attention Networks for Image Question Answering
+* CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
   + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1511.02274
-  + Material:
+  + Paper: https://arxiv.org/abs/1612.06890
+  + Material: [오근수님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/b오그ob/master/week06/kunsu_190220.pdf)
   
   
 * Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
