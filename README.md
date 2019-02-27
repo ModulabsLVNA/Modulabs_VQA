@@ -209,8 +209,8 @@
   + Material:
 
 * Inferring and Executing Programs for Visual Reasoning
-  + Presentor: ???
-  + Paper:
+  + Presentor: 문태봉
+  + Paper: https://arxiv.org/abs/1705.03633
   + Material:
 
 * Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering
@@ -229,9 +229,9 @@
   + Paper:
   + Material:
 
-* ???
-  + Presenter:
-  + Paper:
+* Attention Is All You Need
+  + Presenter: 문태봉
+  + Paper: https://arxiv.org/abs/1706.03762
   + Material:
 
 ### Week10 (19/03/20)
