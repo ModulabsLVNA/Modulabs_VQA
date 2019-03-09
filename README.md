@@ -211,11 +211,6 @@
   + Paper: https://arxiv.org/abs/1810.04805
   + Material: [조원호님 블로그 (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)](https://www.notion.so/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-8d16d11659814f8c97fcee0a727cfda9)
 
-* Bilinear Attention Networks(BAN)
-  + Presenter: 김예찬
-  + Paper:
-  + Material:
-
 * Attention Is All You Need
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1706.03762
