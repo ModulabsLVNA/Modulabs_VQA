@@ -201,7 +201,7 @@
   
 * FiLM: Visual Reasoning with a General Conditioning Layer
   + Presenter: 김예찬
-  + Paper:
+  + Paper: https://arxiv.org/abs/1709.07871
   + Material:
 
 ### Week09 (19/03/13)
