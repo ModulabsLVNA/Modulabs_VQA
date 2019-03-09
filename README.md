@@ -223,7 +223,7 @@
 
 ### Week10 (19/03/20)
 * MovieQA: Understanding Stories in Movies through Question-Answering
-  + Presenter:
+  + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1512.02902
   + Material:
 
