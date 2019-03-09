@@ -193,10 +193,6 @@
   
 
 ### Week08 (19/03/06)
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-  + Presenter: 조원호
-  + Paper: https://arxiv.org/abs/1810.04805
-  + Material:
 
 * Inferring and Executing Programs for Visual Reasoning
   + Presentor: 문태봉
@@ -209,6 +205,12 @@
   + Material:
 
 ### Week09 (19/03/13)
+
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  + Presenter: 조원호
+  + Paper: https://arxiv.org/abs/1810.04805
+  + Material: [조원호님 블로그 (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)](https://www.notion.so/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-8d16d11659814f8c97fcee0a727cfda9)
+
 * Bilinear Attention Networks(BAN)
   + Presenter: 김예찬
   + Paper:
