@@ -68,11 +68,11 @@
  - **(NIPS 2017) [Attention is All You Need(1706)](https://arxiv.org/abs/1706.03762)**
  - (NIPS 2017) [A simple neural network module for relational reasoning(1706)](https://arxiv.org/abs/1706.01427) : A
  - (CVPR 2018) [Visual Question Answering with Memory-Augmented Networks(1707)](https://arxiv.org/abs/1707.04968)
- - **(CVPR 2018 full oral) [Bottom-up and top-down attention for image captioning and visual question answering(1707)](https://arxiv.org/abs/1707.07998)** : B, D
+ - (CVPR 2018 full oral) [Bottom-up and top-down attention for image captioning and visual question answering(1707)](https://arxiv.org/abs/1707.07998) : B, D
  - **(ICCV 2016) [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering(1708)](https://arxiv.org/abs/1708.01471)** : E
    - MFB
  - (CVPR 2018) [Tips and Tricks for Visual Question Answering: Learning from the 2017 Challenge(1708)](https://arxiv.org/abs/1708.02711)
- - **(CVPR 2018) [Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering(1708)](https://arxiv.org/abs/1708.03619)** : E
+ - (CVPR 2018) [Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering(1708)](https://arxiv.org/abs/1708.03619) : E
    - MFH 
  - (CoRR 2017) [Robustness Analysis of Visual QA Models by Basic Questions(1709)](https://arxiv.org/abs/1709.04625)
  - **(AAAI 2017) [FiLM: Visual Reasoning with a General Conditioning Layer(1709)](https://arxiv.org/abs/1709.07871)**
