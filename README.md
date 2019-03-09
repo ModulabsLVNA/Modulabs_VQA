@@ -191,11 +191,6 @@
   + Paper:
   + Material:
   
-* A simple neural network module for relational reasoning
-  + Presentor: ???
-  + Paper:
-  + Material:
-  
 
 ### Week08 (19/03/06)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -203,19 +198,9 @@
   + Paper: https://arxiv.org/abs/1810.04805
   + Material:
 
-* Bottom-up and top-down attention for image captioning and visual question answering
-  + Presenter: ???
-  + Paper:
-  + Material:
-
 * Inferring and Executing Programs for Visual Reasoning
   + Presentor: 문태봉
   + Paper: https://arxiv.org/abs/1705.03633
-  + Material:
-
-* Beyond Bilinear: Generalized Multimodal Factorized High-Ordered Pooling for Visual Question Answering
-  + Presenter: 김예찬
-  + Paper:
   + Material:
   
 * FiLM: Visual Reasoning with a General Conditioning Layer
