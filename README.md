@@ -52,7 +52,7 @@
  - **(ICLR 2017) [Hadamard Product for Low-rank Bilinear Pooling(1610)](https://arxiv.org/abs/1610.04325)** : E
    - MLB
  - (AAAI 2018) [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models(1610)](https://arxiv.org/abs/1610.02424)
- - **(CVPR 2017) [Dual attention networks for multimodal reasoning and matching(1611)](https://arxiv.org/abs/1611.00471)**
+ - (CVPR 2017) [Dual attention networks for multimodal reasoning and matching(1611)](https://arxiv.org/abs/1611.00471)
  - (ICLR 2017) [dynamic Coattention Networks For Question Answering(1611)](https://arxiv.org/abs/1611.01604)
  - (CVPR 2017 Spotlight) [Modeling Relationship in Referential Expressions with Compositional Modular Networks(1611)](https://arxiv.org/abs/1611.09978) : A
  - (CVPR 2017) [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering(1612)](https://arxiv.org/abs/1612.00837)
