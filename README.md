@@ -219,7 +219,7 @@
 * TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1704.04497
-  + Material:
+  + Material: [문태봉님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week10/2019.03.20_vqa.pdf)
 
 
 ### Week11 (19/03/27)
