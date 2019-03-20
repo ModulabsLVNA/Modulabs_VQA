@@ -197,12 +197,13 @@
 * Inferring and Executing Programs for Visual Reasoning
   + Presentor: 문태봉
   + Paper: https://arxiv.org/abs/1705.03633
-  + Material:
+  + Material: [문태봉님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week08/PP_ProgramsForVisualReasoning.pdf)
   
 * FiLM: Visual Reasoning with a General Conditioning Layer
   + Presenter: 김예찬
   + Paper: https://arxiv.org/abs/1709.07871
   + Material:
+
 
 ### Week09 (19/03/13)
 
@@ -211,29 +212,19 @@
   + Paper: https://arxiv.org/abs/1810.04805
   + Material: [조원호님 블로그 (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)](https://www.notion.so/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-8d16d11659814f8c97fcee0a727cfda9)
 
-* Attention Is All You Need
-  + Presenter: 문태봉
-  + Paper: https://arxiv.org/abs/1706.03762
-  + Material:
+
 
 ### Week10 (19/03/20)
-* MovieQA: Understanding Stories in Movies through Question-Answering
-  + Presenter: 오근수
-  + Paper: https://arxiv.org/abs/1512.02902
-  + Material:
 
-* MarioQA: Answering Questions by Watching Gameplay Videos
-  + Presenter:
-  + Paper: https://arxiv.org/abs/1612.01669
-  + Material:
-
-### Week11 (19/03/27)
 * TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering
-  + Presenter:
+  + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1704.04497
   + Material:
 
-* DeepStory: Video Story QA by Deep Embedded Memory Networks
-  + Presenter:
-  + Paper: https://arxiv.org/abs/1707.00836
+
+### Week11 (19/03/27)
+ 
+* MovieQA: Understanding Stories in Movies through Question-Answering
+  + Presenter: 오근수
+  + Paper: https://arxiv.org/abs/1512.02902
   + Material:
