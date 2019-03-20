@@ -122,7 +122,7 @@
 * Learning to Reason: End-to-End Module Networks for Visual Question Answering
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1704.05526
-  + Material:
+  + Material: [문태봉님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week07/2019.02.27_vqa.pdf)
 
 
 ### Week04 (19/01/30)
@@ -179,7 +179,7 @@
 * Learning to Reason: End-to-End Module Networks for Visual Question Answering (코드구현)
   + Presenter: 문태봉
   + Paper: https://arxiv.org/abs/1704.05526
-  + Material:
+  + Material: [문태봉님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week07/2019.02.27_vqa.pdf)
 
 * MUTAN: Multimodal Tucker Fusion for Visual Question Answering
   + Presenter: 김예찬
