@@ -197,7 +197,7 @@
 * Inferring and Executing Programs for Visual Reasoning
   + Presentor: 문태봉
   + Paper: https://arxiv.org/abs/1705.03633
-  + Material: [문태봉님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week08/PP_ProgramsForVisualReasoning.pdf)
+  + Material: [Gursimran Singh and Borna Ghotbi 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week08/PP_ProgramsForVisualReasoning.pdf)
   
 * FiLM: Visual Reasoning with a General Conditioning Layer
   + Presenter: 김예찬
