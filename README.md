@@ -227,4 +227,9 @@
 * MovieQA: Understanding Stories in Movies through Question-Answering
   + Presenter: 오근수
   + Paper: https://arxiv.org/abs/1512.02902
-  + Material:
+  + Material: [오근수님 발표자료](https://github.com/ModulabsLVNA/Modulabs_VQA/blob/master/week11/kunsu_190327.pdf)
+  
+* Language Models are Unsupervised Multitask Learners (OpenAI GPT-2)
+  + Presenter: 조원호
+  + Paper: https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
+  + Material: [조원호님 블로그 (Language Models are Unsupervised Multitask Learners (OpenAI GPT-2))](https://www.notion.so/Language-Models-are-Unsupervised-Multitask-Learners-OpenAI-GPT-2-5efebc53e34344d5bb9cc71592300e6f)
